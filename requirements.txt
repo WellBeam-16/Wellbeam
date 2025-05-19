@@ -1,1 +1,5 @@
 Flask
+together
+beautifulsoup4
+flask-cors
+firebase-admin
