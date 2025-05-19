@@ -1,5 +1,5 @@
 Flask
-together
-beautifulsoup4
-flask-cors
 firebase-admin
+beautifulsoup4
+together
+flask-cors
