@@ -18,7 +18,6 @@ cred = credentials.Certificate("serviceAccountKey.json")
 firebase_admin.initialize_app(cred)
 db = firestore.client()
 
-llm_client = Together(api_key="f19656ccd301f8f3094d4f6a7cb3ba31e2bd3c9cbee0a12141a4f5fdd7541ade")
 
 # Enhanced prompt template for better emotional support
 PROMPT_TEMPLATE = (
